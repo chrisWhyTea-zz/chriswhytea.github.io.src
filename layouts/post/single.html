@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+{{ partial "head" . }}
+
+<body>
+    {{ partial "header" . }}
+    <section class="content">
+        <article class="post">
+            <header>
+                <h2>{{ .Title }}</h2>
+                <small class="date">Veröffentlicht am {{ .Date.Format "02.01.2006" }}</small>
+            </header>
+            <div class="text">
+                {{ .Content }}
+            </div>
+        </article>
+        {{ partial "disqus.html" . }}
+
+
+    </section>
+    {{ partial "footer" . }}
+</body>
+
+</html>

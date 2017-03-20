@@ -1,0 +1,24 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column-50 {
+    width: 50%;
+}
+
+.column-100 {
+    width: 100%;
+}
+
+@media(max-width: 768px) {
+  .row {
+      display: block;
+  }
+  .column-100 {
+      width: 100%;
+  }
+  .column-50 {
+      width: 100%;
+  }
+}

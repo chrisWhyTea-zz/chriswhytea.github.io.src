@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+{{ partial "head" . }}
+
+<body>
+    {{ partial "header" . }}
+    <section class="content">
+        {{ range where .Data.Pages "Section" "post" }}
+        <article class="post">
+            <header>
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <small class="date">Veröffentlicht am {{ .Date.Format "02.01.2006" }}</small>
+            </header>
+            <div class="text">
+                <p>{{ .Summary }}</p>
+            </div>
+            {{ if .Truncated }}
+            <div class="read-more-link">
+                <a href="{{ .RelPermalink }}">Mehr lesen…</a>
+            </div>
+            {{ end }}
+        </article>
+        {{ end }}
+
+    </section>
+    {{ partial "footer" . }}
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+baseurl = "http://chris.yt/"
+languageCode = "de-de"
+title = "Seriously, why tea?"
+disqusShortname="chris-yt"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"

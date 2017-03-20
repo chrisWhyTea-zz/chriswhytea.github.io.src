@@ -1,0 +1,23 @@
+.content{
+  max-width: 900px;
+  margin: auto;
+  padding: 1em;
+  .post{
+    border-left: 5px solid #f4f4f4
+  }
+  article{
+    line-height: 1.25em;
+    .date{
+      color: lighten($text-color, 25%);
+    }
+    .text{
+      text-align:justify;
+    }
+    .read-more-link{
+      padding: 0.5em 0;
+      a{
+        font-size: 1.1em;
+      }
+    }
+  }
+}

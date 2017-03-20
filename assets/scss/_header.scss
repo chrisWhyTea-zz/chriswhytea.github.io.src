@@ -1,0 +1,33 @@
+header {
+    .site-logo {
+        height: 160px;
+        width: 160px;
+        display: block;
+        margin: auto;
+    }
+    .site-title{
+      font-family: 'Vibur', cursive;
+      font-size: 3em;
+      text-align: center;
+    }
+
+    .site-menu {
+      text-align: center;
+      font-size: 1.25em;
+      ul{
+        padding: 0;
+        li {
+            display: inline;
+            text-align: center;
+            margin-left: 16px;
+            margin-right: 16px;
+            &:last-child{
+              margin-right: 0;
+            }
+            &:first-child{
+              margin-left: 0;
+            }
+        }
+      }
+    }
+}

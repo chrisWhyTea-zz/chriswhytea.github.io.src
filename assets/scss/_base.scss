@@ -1,0 +1,18 @@
+html {
+    //font-family: 'Rubik', sans-serif;
+    //font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    background: $background-color;
+    color: $text-color;
+
+    a {
+        color: $primary-color;
+        text-decoration: none;
+
+        &:visited {
+            color: $primary-color;
+            text-decoration: none;
+        }
+    }
+}

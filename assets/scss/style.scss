@@ -1,0 +1,13 @@
+// compileCompressed, compressedFilenamePattern: ../../static/css/$1.min.css
+
+$primary-color: #d94236;
+$text-color: #373737;
+$background-color: #f4f4f4;
+
+@import "normalize";
+@import "base";
+@import "header";
+@import "footer";
+@import "content";
+@import "grid";
+@import "page"
