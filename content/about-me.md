@@ -13,14 +13,14 @@ Neben meiner vorliebe für ziemlich alles was mit Computern zu tun hat (also Pro
     <div class="me">
       <img src="/img/icons/languages.svg">
       <h3>Programmiersprachen</h3>
-      <p>Python, Go, C#, GML, HTML5, Sass, Less, PHP* </p>
+      <p>Python, Go, C#, GML, HTML5, Sass, Less, Node.js</p>
     </div>
   </div>
   <div class="column-50">
     <div class="me">
       <img src="/img/icons/frameworks.svg">
       <h3>Frameworks, SDK & Librarys</h3>
-      <p>Falcon, Flask, Django, SQLAlchemy, Express, Bootstrap, Zurb Foundation,Unity3d</p>
+      <p>Falcon, Flask, Django, SQLAlchemy, Express, Bootstrap, Zurb Foundation, Unity3d</p>
     </div>
   </div>
 </div>
@@ -45,7 +45,7 @@ Neben meiner vorliebe für ziemlich alles was mit Computern zu tun hat (also Pro
     <div class="me">
       <img src="/img/icons/tools.svg">
       <h3>Tools</h3>
-      <p>PyCharm, Atom, Gulp, Git, Hugo, Mac OS X, Windows, Linux, Bash/zsh</p>
+      <p>PyCharm, VSCode, Visual Studio 2017, Gulp, Git, Hugo, Mac OS X, Windows, Linux, Bash/zsh</p>
     </div>
   </div>
-  <i>*Anmerkung zu PHP: Legacy überbleibsel das ich nicht mehr nutzen will, der Vollständigkeit halber aber aufgezählt wird.</i>
+
