@@ -4,7 +4,7 @@ title = "Über mich"
 +++
 
 
-Ich bin der Chris, mein voller Name ist Christopher Schmitt, bin 25 Jahre alt und wohne im schönen München, komme aber gebürtig aus der nähe von Mainz. Ich bin ausgebildeter Fachinformatiker mit dem Schwerpunkt Anwendungsentwicklung und arbeite derzeit als Python Backend Entwickler bei der Hetzner Cloud GmbH. Ich kann sprichwörtlich behaupten, das ich mein Hobby zum Beruf gemacht habe.
+Ich bin der Chris, mein voller Name ist Christopher Schmitt, bin 26 Jahre alt und wohne im schönen München, komme aber gebürtig aus der nähe von Mainz. Ich bin ausgebildeter Fachinformatiker mit dem Schwerpunkt Anwendungsentwicklung und arbeite derzeit als Python Backend Entwickler bei der Hetzner Cloud GmbH. Ich kann sprichwörtlich behaupten, das ich mein Hobby zum Beruf gemacht habe.
 Neben meiner vorliebe für ziemlich alles was mit Computern zu tun hat (also Programmieren, Computerbasteleien, Videospiele), bin ich auch begeisterter Fan der japanischen Popkultur, ich liebe Anime und Manga und lese aber auch gerne ganz normale Bücher (naja ... eher E-Books).
 
 ### Und das sind meine Werkzeuge
@@ -13,14 +13,14 @@ Neben meiner vorliebe für ziemlich alles was mit Computern zu tun hat (also Pro
     <div class="me">
       <img src="/img/icons/languages.svg">
       <h3>Programmiersprachen</h3>
-      <p>Python, Go, Javascript (node.js), GML, HTML5, Sass, Less, PHP* </p>
+      <p>Python, Go, C#, GML, HTML5, Sass, Less, PHP* </p>
     </div>
   </div>
   <div class="column-50">
     <div class="me">
       <img src="/img/icons/frameworks.svg">
       <h3>Frameworks, SDK & Librarys</h3>
-      <p>Falcon, Flask, Django, SQLAlchemy, Express, Bootstrap, Zurb Foundation</p>
+      <p>Falcon, Flask, Django, SQLAlchemy, Express, Bootstrap, Zurb Foundation,Unity3d</p>
     </div>
   </div>
 </div>
